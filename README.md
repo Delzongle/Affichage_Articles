@@ -1,4 +1,4 @@
-Artciles
+Articles
 ========
 
-Projet des articles avec symfony
+Consultations des articles w/ symfony2
